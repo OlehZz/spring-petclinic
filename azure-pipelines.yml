@@ -12,7 +12,7 @@ variables:
   azureSubscription: '80383e56-00eb-4ebe-ac65-8eba21f94c27'
 
   # Web app name
-  webAppName: 'petclinic'
+  webAppName: 'petclinic-oleh-test'
 
   # Environment name
   environmentName: 'Stage'
